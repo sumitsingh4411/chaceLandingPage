@@ -1,0 +1,93 @@
+@media only screen and (max-width: 1000px) {
+  .topPage {
+    padding: 60px !important;
+  }
+}
+@media (min-width: 1000px) and (max-width: 1200px) {
+  .left {
+    padding: 70px !important;
+   
+  }
+}
+
+
+.fifthPage {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.title {
+  color: white;
+  font-size: 40px;
+  font-weight: 900;
+  margin-top: 40px;
+}
+.subtitle {
+  color: white;
+  font-size: 21px;
+  font-weight: 500;
+  margin-top: 20px;
+}
+.middle {
+  padding: 18px;
+  margin-top: 40px;
+  background-color: #47da66;
+  height: 270px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.left {
+  flex: 1;
+}
+.right {
+  flex: 1;
+}
+.header {
+  font-size: 24px;
+  font-weight: 600;
+}
+.subheader {
+  margin-top: 15px;
+  font-size: 16px;
+}
+.card {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.subcard {
+  background-color: #1F1E1F;
+  margin-left: 20px;
+  border-radius: 25px;
+  border: 0.3px solid #212529;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+  border-radius: 15px;
+  width: 270px;
+  height: 254px;
+  padding: 25px 20px;
+}
+.cardtitle {
+  margin-bottom: 20px;
+  margin-top: 10px;
+  font-size: 24px;
+  font-weight: 600;
+}
+.cardsubtitle {
+  color: white;
+  margin-top: 10px;
+  font-size: 16px;
+}
+.cardimage {
+  display: flex;
+}
+.tag {
+  margin-top: 1px;
+  font-size: 24px;
+  font-weight: 600;
+}

@@ -1,0 +1,41 @@
+.sixthpage {
+  margin: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 64px 32px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border-radius: 5px;
+  background-color: black;
+  height: 240px;
+}
+.title {
+  font-size: 40px;
+  font-weight: 900;
+  color: #fff;
+}
+.subtitle {
+  margin-top: 15px;
+  font-size: 21px;
+  font-weight: 500;
+  color: #a1a8b8;
+}
+.customButtom {
+  margin-top: 40px;
+  cursor: pointer;
+  height: 58px;
+  width: 200px;
+  border-radius: 35px;
+  display: flex;
+  align-items: center;
+  background-color: #f1c086;
+  justify-content: center;
+}
+.customButtomTitle {
+  font-weight: 700;
+  color: black;
+}
+.customButtomTitle:hover {
+  color: #fff;
+}

@@ -1,0 +1,77 @@
+.secondPage {
+  margin-top: 100px;
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.left {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 20px;
+  border-radius: 25px;
+  border: 0.3px solid #212529;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+  width: 300px;
+  height: 270px;
+}
+.myimage{
+    margin-top: 20px;
+}
+.title {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  font-size: 24px;
+  font-weight: 600;
+}
+.subtitle {
+  color: #a1a8b8;
+  font-size: 16px;
+  font-weight: 400;
+}
+.bottom{
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.customButtom {
+    margin-top: 40px;
+    cursor: pointer;
+    height: 58px;
+    width: 200px;
+    border-radius: 35px;
+    display: flex;
+    align-items: center;
+    background-color: #f1c086;
+    justify-content: center;
+  }
+  .customButtomTitle {
+    font-weight: 700;
+    color: black;
+  }
+  .customButtomTitle:hover{
+    color: #fff;
+  }
+  .bottomPage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+    flex: 1;
+  }
+  .buttomTitle {
+    margin-top: 20px;
+    font-weight: 800;
+    color: white;
+    font-size: 40px;
+  }
+  .subTitle {
+    margin-top: 15px;
+    font-weight: 600;
+    color: #a1a8b8;
+    font-size: 21px;
+  }

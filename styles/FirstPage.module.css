@@ -1,0 +1,58 @@
+@media (min-width: 1000px) and (max-width: 1200px) {
+  .topPage {
+    padding: 60px !important;
+    padding-left: 90px !important;
+  }
+  .top {
+    font-weight: 700 !important;
+    font-size: 40px !important;
+  }
+}
+.firsPage {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+}
+.topPage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  width: 100%;
+  flex: 5;
+}
+.left {
+  flex: 1;
+}
+.right {
+  flex: 1;
+}
+.top {
+  font-weight: 800;
+  color: white;
+  font-size: 52px;
+}
+.middle {
+  margin-top: 40px;
+  font-weight: 500;
+  color: #a1a8b8;
+  font-size: 21px;
+}
+.customButtom {
+  margin-top: 40px;
+  cursor: pointer;
+  height: 58px;
+  width: 200px;
+  border-radius: 35px;
+  display: flex;
+  align-items: center;
+  background-color: #f1c086;
+  justify-content: center;
+}
+.customButtomTitle {
+  font-weight: 700;
+  color: #1f1e1e;
+}
+.customButtomTitle:hover {
+  color: #fff;
+}
